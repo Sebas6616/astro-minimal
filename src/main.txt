@@ -1,2 +1,3 @@
 An open source blog template build with Astro and Bulma 🚀
 # drop an unused branch
+# guard against empty input
