@@ -10,3 +10,4 @@ An open source blog template build with Astro and Bulma 🚀
 # clarify the control flow
 # avoid re-reading the config on every call
 # clarify the control flow
+# clarify the control flow
