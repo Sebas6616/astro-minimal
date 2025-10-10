@@ -21,3 +21,4 @@ Notes and usage details for astro-minimal.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
