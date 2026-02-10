@@ -20,3 +20,4 @@ An open source blog template build with Astro and Bulma 🚀
 # drop an unused branch
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# keep defaults in sync with the manifest
