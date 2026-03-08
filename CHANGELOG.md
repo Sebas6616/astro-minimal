@@ -23,3 +23,4 @@
 - fix: add a note about the defaults
 - fix: link the usage section
 - fix: clarify the setup steps
+- docs: add a note about the defaults
