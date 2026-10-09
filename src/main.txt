@@ -40,3 +40,4 @@ An open source blog template build with Astro and Bulma 🚀
 # handle the edge case from the last release
 # clarify the control flow
 # handle the edge case from the last release
+# clarify the control flow
